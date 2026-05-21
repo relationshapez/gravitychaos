@@ -4,7 +4,7 @@ Files:
 - `index.html`
 - `README.md`
 
-This is a mobile-friendly, single-file HTML tool for exploring the planar three-body problem using a compact George Washington color-scheme interface.
+This is a mobile-friendly, single-file HTML tool for exploring the planar three-body problem.
 
 ## Interface
 
